@@ -61,11 +61,11 @@ The confusion matrix for the test set is as follows:
 
 1.  Clone this repository to your local machine:
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone (https://github.com/Suraj250104/Purchase-Prediction-KNN-.git)
     ```
 2.  Navigate to the project directory:
     ```bash
-    cd your-repository-name
+    cd Purchase-Prediction-KNN
     ```
 3.  Ensure you have the required libraries installed. You can install them using pip:
     ```bash
