@@ -47,15 +47,6 @@ The confusion matrix for the test set is as follows:
 * **False Negatives:** 3
 * **True Positives:** 29
 
-### Visualizations
-
-**K-NN Decision Boundary (Training Set)**
-![Training Set Results](path/to/your/training_set_image.png)
-*(This plot shows the model's predictions across the training data points.)*
-
-**K-NN Decision Boundary (Test Set)**
-![Test Set Results](path/to/your/test_set_image.png)
-*(This plot shows how well the model generalizes to new, unseen data from the test set.)*
 
 ## How to Run
 
